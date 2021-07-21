@@ -1,0 +1,103 @@
+{
+  "species": "fins",
+  "Fins": [
+    {
+      "elements": [
+        {
+          "file": "fins0.svg",
+          "transform": "translate(305,85) scale(1.5)"
+        },
+        {
+          "file": "fins0.svg",
+          "transform": "translate(180,85) scale(-1.5,1.5)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "fins1.svg",
+          "transform": "translate(305,85) scale(1.5)"
+        },
+        {
+          "file": "fins1.svg",
+          "transform": "translate(180,85) scale(-1.5,1.5)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "fins2.svg",
+          "transform": "translate(255,160) scale(1.6)"
+        },
+        {
+          "file": "fins2.svg",
+          "transform": "translate(233,160) scale(-1.6,1.6)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "fins3.svg",
+          "transform": "translate(305,80) scale(1.5)"
+        },
+        {
+          "file": "fins3.svg",
+          "transform": "translate(180,80) scale(-1.5,1.5)"
+        }
+      ]
+    }
+  ],
+  "Bracelets": [
+    {
+      "elements": [
+        {
+          "file": "bracelet0.svg",
+          "transform": "translate(393,390) scale(1.9)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "bracelet1.svg",
+          "transform": "translate(393,395) scale(1.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "bracelet2.svg",
+          "transform": "translate(408,440) scale(1.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "bracelet3.svg",
+          "transform": "translate(395,400) scale(1.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "bracelet4.svg",
+          "transform": "translate(400,395) scale(1.8)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "bracelet5.svg",
+          "transform": "translate(380,360) scale(1.9)"
+        }
+      ]
+    }
+  ]
+}

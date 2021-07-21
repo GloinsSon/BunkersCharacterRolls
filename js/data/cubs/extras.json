@@ -1,0 +1,95 @@
+{
+  "species": "cubs",
+  "Tags": [
+    {
+      "elements": [
+        {
+          "file": "tag0.svg",
+          "transform": "translate(160,280) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tag1.svg",
+          "transform": "translate(160,280) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tag2.svg",
+          "transform": "translate(160,280) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tag3.svg",
+          "transform": "translate(160,280) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tag4.svg",
+          "transform": "translate(160,280) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tag5.svg",
+          "transform": "translate(160,280) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tag6.svg",
+          "transform": "translate(160,280) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tag7.svg",
+          "transform": "translate(175,345) rotate(-60)"
+        }
+      ]
+    }
+  ],
+  "Fangs": [
+    {
+      "elements": [
+        {
+          "file": "fangs0.svg",
+          "transform": "translate(225,150)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "fangs1.svg",
+          "transform": "translate(225,150)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "fangs2.svg",
+          "transform": "translate(225,150)"
+        }
+      ]
+    }
+  ]
+}

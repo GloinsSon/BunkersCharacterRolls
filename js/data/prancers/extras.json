@@ -1,0 +1,45 @@
+{
+  "species": "prancers",
+  "Brands": [
+    {
+      "elements": [
+        {
+          "file": "brand1.svg",
+          "transform": "translate(180,210) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "brand2.svg",
+          "transform": "translate(180,210) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "brand3.svg",
+          "transform": "translate(180,210) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "brand4.svg",
+          "transform": "translate(180,210) scale(0.7)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "brand5.svg",
+          "transform": "translate(180,210) scale(0.6)"
+        }
+      ]
+    }
+  ]
+}

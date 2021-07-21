@@ -1,0 +1,136 @@
+body {
+    /* background-image: url("../img/background.png"); */
+    background-color: rgba(156, 132, 111, 0.5);
+    font-size: 1.2em;
+}
+
+@media only screen and (max-width: 576px) {
+    #logo {
+        display: none;
+    }
+    .col-sm-3, .col-sm-11 {
+        padding-left: 50px;
+    }
+}
+
+svg {
+    overflow: visible;
+}
+
+div.container-fluid, div.container-xl {
+    color: #005062;
+}
+
+footer, .navbar-dark {
+    background-color: #08415C;
+    color: #fff1e6;
+}
+
+footer a, .navbar-dark a {
+    color: #ff7000;
+}
+
+fieldset {
+    background-color: rgba(180,180,180,0.5);
+    padding-bottom: 5px;
+}
+
+legend, label {
+    font-family: 'Marck Script', cursive;
+    margin-bottom: 0px;
+}
+
+legend {
+    margin-bottom: 0px;
+}
+
+figure {
+    float: right;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+input[type="radio"], input[type="text"] {
+    position: absolute;
+    display: none;
+    width: 0px;
+    height: 0px;
+
+}
+input[type="radio"] + svg {
+    padding: 2px;
+    margin: 0px;
+    stroke: #eeeeee;
+    stroke-width: 0.5px;
+}
+input[type="radio"]:checked + svg {
+    stroke: #333333;
+    stroke-width: 0.75px;
+    padding: 0px;
+}
+
+input[type="radio"] + figure > img {
+    margin: 5px 15px;
+    width: 40px;
+}
+input[type="radio"]:checked + figure > img {
+    box-shadow: 5px 5px  rgba(0,0,0,0.6);
+    -moz-box-shadow: 5px 5px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 5px 5px  rgba(0,0,0,0.6);
+    -o-box-shadow: 5px 5px  rgba(0,0,0,0.6);
+    border-radius:80px;
+    padding: 0px;
+    width: 60px;
+}
+
+input[type="radio"] + img {
+    border: #fefefe 2px solid;
+    border-radius: 20px;
+    margin: 5px 15px;
+    padding: 5px;
+    width: 40px;
+}
+input[type="radio"]:checked + img {
+    background: #fefefe;
+    box-shadow: 3px 3px  rgba(0,0,0,0.6);
+    -moz-box-shadow: 3px 3px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 3px 3px  rgba(0,0,0,0.6);
+    -o-box-shadow: 3px 3px  rgba(0,0,0,0.6);
+    border-radius: 20px;
+}
+
+.page-footer { margin-top: 40px; }
+
+.progress, .progress-bar {
+    height: 30px;
+}
+
+.form-group {
+    margin-bottom: 2px;
+}
+#logo {
+    position: relative;
+    top: -50px;
+}
+
+.extras {
+    position: relative;
+    display: inline-block;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+}
+
+#selection {
+    margin-left: 0px;
+}
+
+
+img[disabled] {
+    filter: blur(2px) grayscale(100%);
+}
+figcaption[disabled] {
+    text-decoration: line-through;
+    color: red;
+}

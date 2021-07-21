@@ -1,0 +1,45 @@
+{
+  "species": "hoppers",
+  "Tattoos": [
+    {
+      "elements": [
+        {
+          "file": "tattoo0.svg",
+          "transform": "translate(200,460) scale(1.4)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tattoo1.svg",
+          "transform": "translate(200,460) scale(1.4)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tattoo2.svg",
+          "transform": "translate(200,460) scale(1.4)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tattoo3.svg",
+          "transform": "translate(200,460) scale(1.4)"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "file": "tattoo4.svg",
+          "transform": "translate(200,460) scale(1.4)"
+        }
+      ]
+    }
+  ]
+}
